@@ -1,22 +1,16 @@
-# {{ name }}
+# 猿社区-微服务项目-前端前台
 
-> {{ description }}
+## 当前版本 v0.1
+正在开发中。。。。
 
-## Build Setup
+## 项目预览
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/1.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/2.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/3.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/4.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/5.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/6.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/8.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/10.jpg)
+![预览](https://github.com/geekerstar/verynavi-fe/blob/master/README/11.jpg)
